@@ -9,6 +9,8 @@
 
 - 👨‍💻 I initiated my venture into web development in 2022, and presently, I am actively engaged in acquiring proficiency in the MERN (MongoDB, Express.js, React, Node.js) stack.
 
+- 🔭 I aspire to elevate my programming skills and achieve mastery in full-stack web development, leveraging innovation to contribute meaningfully to the dynamic and ever-evolving technological landscape
+
 - 📫 How to reach me **brcshakil72@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tcC2F_gwBPh3xsXp6ExSYia1OeUly8IE/view?usp=sharing](https://drive.google.com/file/d/1tcC2F_gwBPh3xsXp6ExSYia1OeUly8IE/view?usp=sharing)
@@ -101,4 +103,4 @@ https://lets-study-435f5.web.app/
 
 ## Live Link
 
-https://drive-wave-client.web.app
+https://lets-study-435f5.web.app/
