@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brcshakil1&label=Profile%20views&color=0e75b6&style=flat" alt="brcshakil1" /> </p>
 
+- 👨‍💻 I initiated my venture into web development in 2022, and presently, I am actively engaged in acquiring proficiency in the MERN (MongoDB, Express.js, React, Node.js) stack.
+
 - 📫 How to reach me **brcshakil72@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tcC2F_gwBPh3xsXp6ExSYia1OeUly8IE/view?usp=sharing](https://drive.google.com/file/d/1tcC2F_gwBPh3xsXp6ExSYia1OeUly8IE/view?usp=sharing)
@@ -23,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brcshakil1&show_icons=true&locale=en" alt="brcshakil1" /></p>
 
-fin[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brcshakil1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brcshakil1&theme=dark)](https://git.io/streak-stats)
