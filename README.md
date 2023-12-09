@@ -28,3 +28,77 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brcshakil1&show_icons=true&locale=en" alt="brcshakil1" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brcshakil1&theme=dark)](https://git.io/streak-stats)
+
+<!-- projects -->
+
+# My Last Projects
+
+## Burj Al Arif
+
+<p>Building Management System (BMS) | 24 November, 2023 - 30 November, 2023</p>
+
+- MERN stack web app enables remote property management for owners, showcasing vital
+  details and paginated apartment listings in a concise layout.
+
+- Intuitive user authentication redirects unregistered users to login, ensuring a streamlined
+  agreement process. Members can easily submit and manage agreements.
+
+- Multi-tiered user roles (User, Member, Admin) offer personalized dashboards, facilitating
+  seamless rent payments and agreement management for enhanced user experience.
+
+#### Technology used
+
+- Front-end: HTML, Tailwind, Material UI, JS and React.js
+- Back-end : Express.js, Node.js, and MongoDB
+- Payment System: React Stripe.js
+<p>Furthermore, to fortify user security and streamline authentication processes, I have seamlessly integrated Firebase Authentication. For efficient deployment, I have utilized Firebase hosting.</p>
+
+### Live link
+
+https://burj-al-arif-6511c.web.app
+
+## Let’s Study
+
+<p>Study Project | 5 November, 2023 - 8 November, 2023</p>
+
+- "Let's Study" enables assignment creation, submission, and evaluation, fostering
+  collaborative learning in a streamlined interface.
+
+- Seamless assignment creation, submission, and evaluation for a user-centric learning
+  experience on "Let's Study."
+
+- Dynamic assignment pages with pagination ensure accessibility, empowering users to
+  engage in an interactive learning community
+
+#### Technology used
+
+- Front-end: HTML, Tailwind, Daisy UI, JS and React.js
+- Back-end : Express.js, Node.js, and MongoDB
+<p>Furthermore, to fortify user security and streamline authentication processes, I have seamlessly integrated Firebase Authentication. For efficient deployment, I have utilized Firebase hosting.</p>
+
+### Live Link
+
+https://lets-study-435f5.web.app/
+
+## DriveWare
+
+<p>Automotive brands shop projects | 18 October, 2023 - 20 October, 2023</p>
+
+- E-commerce platform with dynamic product browsing, brand exploration, and a
+  personalized cart for a streamlined user experience.
+
+- Easily add, update, and explore products, with brand-specific pages and a personalized cart,
+  enhancing the DriveWave shopping experience.
+- DriveWave features dynamic routes, secure login, and registration, empowering users to
+  manage and update their own product listings.
+
+#### Technology used
+
+- Front-end: HTML, Tailwind, Daisy UI, JS and React.js
+- Back-end : Express.js, Node.js, and MongoDB
+
+<p>Furthermore, to fortify user security and streamline authentication processes, I have seamlessly integrated Firebase Authentication. For efficient deployment, I have utilized Firebase hosting.</p>
+
+## Live Link
+
+https://drive-wave-client.web.app
